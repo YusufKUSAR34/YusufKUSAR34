@@ -7,3 +7,6 @@ I studied at the University of Jaen (Universidad de Jaen) in Spain as an Erasmus
 
 On the back-end, I use Java(Spring-Boot), C#(Asp.net Web Form) programming languages.
 I am proficient in Html, Css, Javascript (Angular, Jquery) technologies on the front-end side.
+
+linkedIn : https://www.linkedin.com/in/yusufkusar34/
+gmail : yusuf.kusar34@gmail.com
