@@ -5,5 +5,5 @@ I am Yusuf KUŞAR. I won the Department of Computer Engineering at Düzce Univer
 
 I studied at the University of Jaen (Universidad de Jaen) in Spain as an Erasmus student in the spring semester of the 2013-2014 academic year. I graduated from the Computer Engineering Department of Düzce University as of May 2016.
 
-Back-end tarafın da Java(Spring-Boot),C#(Asp.net Web Form) programlama dillerini kullanıyorum.
-Front-end tarafın da  Html,Css,Javascript(Angular,Jquery) teknolojilerine hakimim.
+On the back-end, I use Java(Spring-Boot), C#(Asp.net Web Form) programming languages.
+I am proficient in Html, Css, Javascript (Angular, Jquery) technologies on the front-end side.
