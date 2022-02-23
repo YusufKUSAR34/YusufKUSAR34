@@ -9,4 +9,5 @@ On the back-end, I use Java(Spring-Boot), C#(Asp.net Web Form) programming langu
 I am proficient in Html, Css, Javascript (Angular, Jquery) technologies on the front-end side.
 
 linkedIn : https://www.linkedin.com/in/yusufkusar34/
+
 gmail : yusuf.kusar34@gmail.com
