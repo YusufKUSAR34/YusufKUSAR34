@@ -5,11 +5,13 @@ I am Yusuf KUŞAR. I won the Department of Computer Engineering at Düzce Univer
 
 I studied at the University of Jaen (Universidad de Jaen) in Spain as an Erasmus student in the spring semester of the 2013-2014 academic year. I graduated from the Computer Engineering Department of Düzce University as of May 2016.
 
-On the back-end, I use Java(Spring-Boot), C#(Asp.net Web Form) programming languages.
-I am proficient in Html, Css, Javascript (Angular, Jquery) technologies on the front-end side.
-
 ## Strong languages : 
 Java(Spring Boot),C#(Asp.net),Javascript(Angular)
+
+## Technology Stack : 
+Java (17,11,8) , Apache Kafka ,Rabbit MQ,REST API,SOAP, Spring Boot, Spring JPA,hibernate, Elastic Search, Mongo DB,Couchbase,Docker,
+Redis,PostgreSql,Graylog,DataDog,Feign Client, Spring Actuator,Counter Metric, Spring Security(OAuth-2.0,JWT)
+,Maven,Gradle,JUnit and Mockito,
 
 linkedIn : https://www.linkedin.com/in/yusufkusar34/
 
