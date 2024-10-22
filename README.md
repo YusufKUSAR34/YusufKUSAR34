@@ -9,9 +9,9 @@ I studied at the University of Jaen (Universidad de Jaen) in Spain as an Erasmus
 Java(Spring Boot),C#(Asp.net),Javascript(Angular)
 
 ## Technology Stack : 
-Java (17,11,8) , Apache Kafka ,Rabbit MQ,REST API,SOAP, Spring Boot, Spring JPA,hibernate, Elastic Search, Mongo DB,Couchbase,Docker,
+Java (17,11,8) , Apache Kafka ,Rabbit MQ,REST API,SOAP, Spring Boot, Spring JPA,Hibernate, Elastic Search, Mongo DB,Couchbase,Docker,
 Redis,PostgreSql,Graylog,DataDog,Feign Client, Spring Actuator,Counter Metric, Spring Security(OAuth-2.0,JWT)
-,Maven,Gradle,JUnit and Mockito,
+,Maven,Gradle,JUnit and Mockito,AOP
 
 linkedIn : https://www.linkedin.com/in/yusufkusar34/
 
